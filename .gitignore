@@ -1,0 +1,11 @@
+# Visual Studio / .NET Core / C#
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.exe
+*.pdb
+*.dll
+.DS_Store
+Thumbs.db
